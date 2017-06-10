@@ -1,0 +1,3 @@
+/path/to/tv/show name goes here:10
+/path/to/tv/other show name goes here:5
+/other/path/to/tv/another show goes here:7
