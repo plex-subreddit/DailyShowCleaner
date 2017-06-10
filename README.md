@@ -6,7 +6,8 @@ This script is written around the idea that there's no point in storing old show
 * Edit "ShowsListWithNumber with the path to your files
 * Add a colon after the path with the number of shows you would like to keep
     * Ex: /path/to/TV/show name:10
-* Add it to your crontab or windows task scheduler
+* Remove 'example' from "ShowsListWithNumbers.example.txt"
+* Add showCleaner to your crontab or windows task scheduler
 
 ### Quick Notes
 * If the script finds more than the number of shows that is set in the ShowsWithNumbers file, it will only delete one at a time. It may need to run multiple times if it needs to catch up
