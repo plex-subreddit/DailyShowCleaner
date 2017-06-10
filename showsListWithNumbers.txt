@@ -1,6 +1,0 @@
-/home/nick/TV/@midnight:10
-/home/nick/TV/The Daily Show:10
-/home/nick/TV/Last Week Tonight with John Oliver:10
-/home/nick/TV/The Late Show with Stephen Colbert:10
-/home/nick/TV/Saturday Night Live:10
-/home/nick/TV/The Tonight Show Starring Jimmy Fallon:10
